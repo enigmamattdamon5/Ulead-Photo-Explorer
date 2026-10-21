@@ -223,4 +223,4 @@ Ulead Photo Explorer offers the full free version with all features and updates 
 Ready to enhance your photo management experience? **Download Ulead Photo Explorer Free** today and take your photography to the next level!
 
 ---
-**Last updated:** 2026-10-20 22:13:29 UTC
+**Last updated:** 2026-10-21 01:21:12 UTC
